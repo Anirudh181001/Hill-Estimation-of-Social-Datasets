@@ -1,0 +1,2 @@
+# Hill-Estimation-of-Social-Datasets
+The Hill estimator is often used to infer the power behavior in tails of experimental distribution functions. Hill's tail estimator enables us to predict the tail index using certain parameters. During my undergraduate research oppurtunity with a professor in SUTD, I had written codes in R to estimate tail index using Hill Estimators for different types of datasets.
